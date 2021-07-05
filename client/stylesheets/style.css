@@ -1,0 +1,25 @@
+body {
+  padding: 5px 10px 10px 10px;
+  font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.imgRedonda {
+  width:200px;
+  height:200px;
+  border-radius:150px;
+  border:10px solid  teal;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+ 
